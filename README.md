@@ -4,7 +4,7 @@ This is a simple and interactive To-Do List application built using HTML, CSS, J
 
 ## Live Demo
 
-Check out the live site [HERE](https://todo-app-ardacanbakis.vercel.app/).
+Check out the live site via [vercel](https://todo-app-ardacanbakis.vercel.app/) or [github](https://ardacanbakis.github.io/toDo-app/)
 
 ## Preview
 ![Light Mode](https://i.imgur.com/gHNBNgY.png)
