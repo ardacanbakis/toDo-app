@@ -25,3 +25,11 @@ Check out the live site [HERE](https://todo-app-ardacanbakis.vercel.app/).
 - CSS
 - JavaScript
 - Bootstrap
+
+## Contact
+
+For any inquiries or support requests check [my website](https://www.ardacanbakis.com) for contact options. 
+
+---
+
+This project is developed as part of the Fullstack Web Developer bootcamp by Patika+.
